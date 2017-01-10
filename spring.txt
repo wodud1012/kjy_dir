@@ -1,0 +1,20 @@
+1. Github 활용
+2. Spring FrameWork 활용하여, 쇼핑몰 만들기 모르는 부분은 PHP 확인
+3. 디자인은 유니버셜참고, 
+
+
+해야할것.
+1-10~1-11 Github동영상, 스프링 개발환경구축
+
+
+
+스프링 동영상 강의
+https://www.youtube.com/watch?v=CsOrR-4nH-s&list=PLPvokKzUkaLeiLUDKpqRdP8jtLU8lLKgR&index=1
+
+개발환경
+http://addio3305.tistory.com/32
+http://addio3305.tistory.com/33
+http://addio3305.tistory.com/35
+
+문서 강좌
+http://ooz.co.kr/170
