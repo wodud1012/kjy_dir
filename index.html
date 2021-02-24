@@ -16,6 +16,12 @@
 function testError() {
 		location.href="ybmcyberschool://alrimtalk?kind=02&lec_idx=12345678"
 	}
+function test2() {
+		location.href="ybmcyberschool://alrimtalk?kind=02&lec_idx=10697980"
+	}
+function testError2() {
+		location.href="ybmcyberschool://alrimtalk?kind=01&lec_idx=12345678"
+	}
 </SCRIPT>
 
 	<body>
@@ -27,11 +33,19 @@ function testError() {
 
 <br/><br/><br/><br/><br/><br/>
 
-<a href="javascript:test()"> 테스트</a>
+<a href="javascript:test()"> 평가서 테스트</a>
 <br/><br/><br/><br/>
 
 
-<a href="javascript:testError()"> 에러테스트</a>
+<a href="javascript:testError()"> 교재 에러테스트</a>
+<br/><br/><br/><br/>
+
+
+<a href="javascript:test2()"> 교재 테스트</a>
+<br/><br/><br/><br/>
+
+
+<a href="javascript:testError()"> 평가서 에러테스트</a>
 
 	</body>
 </html>
