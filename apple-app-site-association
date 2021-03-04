@@ -4,6 +4,7 @@
         "details": [{ 
             "appID": "34QQQ8MRHS.com.ybment.app.-..swiftUIModule", 
             "paths": ["*"]  
+            "components": [{ "/" : "", "?": { "viewControllerNumber": "2" } }]
             }] 
     } 
 }
