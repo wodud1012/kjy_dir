@@ -2,8 +2,8 @@
     "applinks": { 
         "apps": [], 
         "details": [{ 
-            "appID": "com.ybment.-", 
-            "paths": ["NOT /_/*","/*"]  
+            "appID": "34QQQ8MRHS.com.ybment.-", 
+            "paths": ["*"]  
             }] 
     } 
 }
